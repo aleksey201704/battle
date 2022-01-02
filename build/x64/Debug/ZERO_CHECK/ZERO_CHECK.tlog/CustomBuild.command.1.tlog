@@ -1,0 +1,10 @@
+^C:\SAMPLEGIT\BUILD\CMAKEFILES\C644E1CE60AC75237860614B43881028\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SampleGit -BC:/SampleGit/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/SampleGit/build/BATTLE.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,6 @@
+C:/SampleGit/build/CMakeFiles/BATTLE.dir
+C:/SampleGit/build/CMakeFiles/ALL_BUILD.dir
+C:/SampleGit/build/CMakeFiles/ZERO_CHECK.dir
+C:/SampleGit/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/SampleGit/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/SampleGit/build/external/glfw/src/CMakeFiles/update_mappings.dir
