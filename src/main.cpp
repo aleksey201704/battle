@@ -27,8 +27,8 @@ int main(void)
 		return -1;
 	}
 	
-	//	std::cout<< "OenGL" << GLVersion.major << "."<< GlVersion.minor;
-	
+	//std::cout<< "OenGL" << GLVersion.major << "."<< GlVersion.minor;
+	std::cout<<"wer";
 	glClearColor(0,1,0,1);
 	
     /* Loop until the user closes the window */
